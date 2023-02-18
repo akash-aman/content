@@ -129,7 +129,7 @@ You should probably combine it with
 👆 Use the toggle above to add the plugin.
 </blockquote>
 
-## Components Mapping & Fully Custom Component
+## Components Mapping  Fully Custom Component
 
 You can pass components to change things:
 
