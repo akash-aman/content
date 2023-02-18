@@ -91,3 +91,27 @@ These features **do not work by default**.
 | ---------: | :------------------- |
 | CommonMark | 100%                 |
 | GFM        | 100% w/ `remark-gfm` |
+
+<br>
+
+* [ ] task list
+* [ ] ~~strikethrough~~
+* [x] checked item
+* [ ] [GFM](https://example.com)
+* [ ] I just love **bold text**
+* [x] Italicized text is the *cat's meow*.
+* [ ] This text is ***really important***. 
+* [ ] H<sub>2</sub>O  X<sup>2</sup>
+* [ ] http://www.example.com
+* [ ] `http://www.example.com`
+
+
+> #### The quarterly results look great!
+>
+> - Revenue was off the chart.
+> - Profits were higher than ever.
+>
+>>  *Everything* is going according to **plan**.
+***
+
+
