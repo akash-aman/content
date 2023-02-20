@@ -1,0 +1,397 @@
+{
+	"lastmod": "2022-12-25",
+	"title": "Course 1",
+	"description": "Course 1",
+	"chapter": [
+		{
+			"title": "Chapter 1",
+			"description": "Chapter 1",
+			"weight": 30,
+			"emogi": "😵‍💫",
+			"type": "chapters",
+			"chapter": 1,
+			"section_start": "Section 1",
+			"section_emogi": "🤠"
+		},
+		{
+			"title": "Chapter 2",
+			"description": "Chapter 2",
+			"weight": 94,
+			"emogi": "🤢",
+			"type": "chapters",
+			"chapter": 2,
+			"section_start": "Section 2",
+			"section_emogi": "🥴"
+		},
+		{
+			"title": "Chapter 3",
+			"description": "Chapter 3",
+			"weight": 87,
+			"emogi": "🤪",
+			"type": "chapters",
+			"chapter": 3,
+			"section_start": null,
+			"section_emogi": null
+		},
+		{
+			"title": "Chapter 4",
+			"description": "Chapter 4",
+			"weight": 35,
+			"emogi": "🤢",
+			"type": "chapters",
+			"chapter": 4,
+			"section_start": "Section 4",
+			"section_emogi": "🤢"
+		},
+		{
+			"title": "Chapter 5",
+			"description": "Chapter 5",
+			"weight": 3,
+			"emogi": "👀",
+			"type": "chapters",
+			"chapter": 5,
+			"section_start": null,
+			"section_emogi": null
+		},
+		{
+			"title": "Chapter 6",
+			"description": "Chapter 6",
+			"weight": 47,
+			"emogi": "🥳",
+			"type": "chapters",
+			"chapter": 6,
+			"section_start": null,
+			"section_emogi": null
+		},
+		{
+			"title": "Chapter 7",
+			"description": "Chapter 7",
+			"weight": 50,
+			"emogi": "🤥",
+			"type": "chapters",
+			"chapter": 7,
+			"section_start": null,
+			"section_emogi": null
+		},
+		{
+			"title": "Chapter 8",
+			"description": "Chapter 8",
+			"weight": 73,
+			"emogi": "🥵",
+			"type": "chapters",
+			"chapter": 8,
+			"section_start": null,
+			"section_emogi": null
+		},
+		{
+			"title": "Chapter 9",
+			"description": "Chapter 9",
+			"weight": 40,
+			"emogi": "🥳",
+			"type": "chapters",
+			"chapter": 9,
+			"section_start": null,
+			"section_emogi": null
+		},
+		{
+			"title": "Chapter 10",
+			"description": "Chapter 10",
+			"weight": 76,
+			"emogi": "🤢",
+			"type": "chapters",
+			"chapter": 10,
+			"section_start": null,
+			"section_emogi": null
+		},
+		{
+			"title": "Chapter 11",
+			"description": "Chapter 11",
+			"weight": 97,
+			"emogi": "🤫",
+			"type": "chapters",
+			"chapter": 11,
+			"section_start": null,
+			"section_emogi": null
+		},
+		{
+			"title": "Chapter 12",
+			"description": "Chapter 12",
+			"weight": 50,
+			"emogi": "🤪",
+			"type": "chapters",
+			"chapter": 12,
+			"section_start": null,
+			"section_emogi": null
+		},
+		{
+			"title": "Chapter 13",
+			"description": "Chapter 13",
+			"weight": 87,
+			"emogi": "🤯",
+			"type": "chapters",
+			"chapter": 13,
+			"section_start": null,
+			"section_emogi": null
+		},
+		{
+			"title": "Chapter 14",
+			"description": "Chapter 14",
+			"weight": 62,
+			"emogi": "🤗",
+			"type": "chapters",
+			"chapter": 14,
+			"section_start": null,
+			"section_emogi": null
+		},
+		{
+			"title": "Chapter 15",
+			"description": "Chapter 15",
+			"weight": 9,
+			"emogi": "🤬",
+			"type": "chapters",
+			"chapter": 15,
+			"section_start": null,
+			"section_emogi": null
+		},
+		{
+			"title": "Chapter 16",
+			"description": "Chapter 16",
+			"weight": 43,
+			"emogi": "😵‍💫",
+			"type": "chapters",
+			"chapter": 16,
+			"section_start": null,
+			"section_emogi": null
+		},
+		{
+			"title": "Chapter 17",
+			"description": "Chapter 17",
+			"weight": 35,
+			"emogi": "🤬",
+			"type": "chapters",
+			"chapter": 17,
+			"section_start": null,
+			"section_emogi": null
+		},
+		{
+			"title": "Chapter 18",
+			"description": "Chapter 18",
+			"weight": 25,
+			"emogi": "🤯",
+			"type": "chapters",
+			"chapter": 18,
+			"section_start": null,
+			"section_emogi": null
+		},
+		{
+			"title": "Chapter 19",
+			"description": "Chapter 19",
+			"weight": 24,
+			"emogi": "🤫",
+			"type": "chapters",
+			"chapter": 19,
+			"section_start": "Section 19",
+			"section_emogi": "🥴"
+		},
+		{
+			"title": "Chapter 20",
+			"description": "Chapter 20",
+			"weight": 50,
+			"emogi": "🤧",
+			"type": "chapters",
+			"chapter": 20,
+			"section_start": null,
+			"section_emogi": null
+		},
+		{
+			"title": "Chapter 21",
+			"description": "Chapter 21",
+			"weight": 47,
+			"emogi": "🤡",
+			"type": "chapters",
+			"chapter": 21,
+			"section_start": null,
+			"section_emogi": null
+		},
+		{
+			"title": "Chapter 22",
+			"description": "Chapter 22",
+			"weight": 3,
+			"emogi": "🥶",
+			"type": "chapters",
+			"chapter": 22,
+			"section_start": null,
+			"section_emogi": null
+		},
+		{
+			"title": "Chapter 23",
+			"description": "Chapter 23",
+			"weight": 6,
+			"emogi": "🤬",
+			"type": "chapters",
+			"chapter": 23,
+			"section_start": null,
+			"section_emogi": null
+		},
+		{
+			"title": "Chapter 24",
+			"description": "Chapter 24",
+			"weight": 37,
+			"emogi": "🤫",
+			"type": "chapters",
+			"chapter": 24,
+			"section_start": null,
+			"section_emogi": null
+		},
+		{
+			"title": "Chapter 25",
+			"description": "Chapter 25",
+			"weight": 69,
+			"emogi": "🤥",
+			"type": "chapters",
+			"chapter": 25,
+			"section_start": null,
+			"section_emogi": null
+		},
+		{
+			"title": "Chapter 26",
+			"description": "Chapter 26",
+			"weight": 41,
+			"emogi": "🤧",
+			"type": "chapters",
+			"chapter": 26,
+			"section_start": "Section 26",
+			"section_emogi": "🤪"
+		},
+		{
+			"title": "Chapter 27",
+			"description": "Chapter 27",
+			"weight": 82,
+			"emogi": "🤭",
+			"type": "chapters",
+			"chapter": 27,
+			"section_start": null,
+			"section_emogi": null
+		},
+		{
+			"title": "Chapter 28",
+			"description": "Chapter 28",
+			"weight": 19,
+			"emogi": "😵‍💫",
+			"type": "chapters",
+			"chapter": 28,
+			"section_start": "Section 28",
+			"section_emogi": "🥳"
+		},
+		{
+			"title": "Chapter 29",
+			"description": "Chapter 29",
+			"weight": 68,
+			"emogi": "🤥",
+			"type": "chapters",
+			"chapter": 29,
+			"section_start": "Section 29",
+			"section_emogi": "😵‍💫"
+		},
+		{
+			"title": "Chapter 30",
+			"description": "Chapter 30",
+			"weight": 10,
+			"emogi": "🤧",
+			"type": "chapters",
+			"chapter": 30,
+			"section_start": null,
+			"section_emogi": null
+		},
+		{
+			"title": "Chapter 31",
+			"description": "Chapter 31",
+			"weight": 17,
+			"emogi": "🤮",
+			"type": "chapters",
+			"chapter": 31,
+			"section_start": null,
+			"section_emogi": null
+		},
+		{
+			"title": "Chapter 32",
+			"description": "Chapter 32",
+			"weight": 14,
+			"emogi": "🤢",
+			"type": "chapters",
+			"chapter": 32,
+			"section_start": null,
+			"section_emogi": null
+		},
+		{
+			"title": "Chapter 33",
+			"description": "Chapter 33",
+			"weight": 43,
+			"emogi": "🤭",
+			"type": "chapters",
+			"chapter": 33,
+			"section_start": null,
+			"section_emogi": null
+		},
+		{
+			"title": "Chapter 34",
+			"description": "Chapter 34",
+			"weight": 78,
+			"emogi": "🤮",
+			"type": "chapters",
+			"chapter": 34,
+			"section_start": "Section 34",
+			"section_emogi": "🤮"
+		},
+		{
+			"title": "Chapter 35",
+			"description": "Chapter 35",
+			"weight": 20,
+			"emogi": "🥶",
+			"type": "chapters",
+			"chapter": 35,
+			"section_start": null,
+			"section_emogi": null
+		},
+		{
+			"title": "Chapter 36",
+			"description": "Chapter 36",
+			"weight": 22,
+			"emogi": "🥳",
+			"type": "chapters",
+			"chapter": 36,
+			"section_start": null,
+			"section_emogi": null
+		},
+		{
+			"title": "Chapter 37",
+			"description": "Chapter 37",
+			"weight": 74,
+			"emogi": "🤫",
+			"type": "chapters",
+			"chapter": 37,
+			"section_start": null,
+			"section_emogi": null
+		},
+		{
+			"title": "Chapter 38",
+			"description": "Chapter 38",
+			"weight": 22,
+			"emogi": "🤯",
+			"type": "chapters",
+			"chapter": 38,
+			"section_start": null,
+			"section_emogi": null
+		},
+		{
+			"title": "Chapter 39",
+			"description": "Chapter 39",
+			"weight": 33,
+			"emogi": "🤮",
+			"type": "chapters",
+			"chapter": 39,
+			"section_start": "Section 39",
+			"section_emogi": "🤯"
+		}
+	]
+}
